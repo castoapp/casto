@@ -14,7 +14,7 @@
     <br />
   </p>
 </p>
-Casto is an open source cross-platform live production/streaming software powered by Electron and Vuetify.
+Casto is an open source cross-platform live production/streaming software powered by Electron, Tailwind & shadcn-vue.
 <br/>
 <br/>
 <p align="center">
